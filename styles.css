@@ -104,6 +104,12 @@ a {
   padding: 10px;
 }
 
+.video {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .greeting {
   text-align: center;
 }
